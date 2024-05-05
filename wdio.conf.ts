@@ -31,7 +31,7 @@ export const config: Options.Testrunner = {
         // Here we can pass the Appium Desired capabulities
     }],
 
-    
+      
     logLevel: 'info',
    
     bail: 0,
